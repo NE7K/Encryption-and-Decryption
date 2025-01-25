@@ -1,2 +1,5 @@
-# Encryption-and-Decryption
-python project
+# PlayFair Encryption and Decryption 
+
+
+
+
