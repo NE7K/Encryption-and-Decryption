@@ -14,6 +14,8 @@ Playfair.cpp는 테이블 생성은 입력된 키와 문자 쌍을 기반으로 
 
 ## 실행 화면 및 결과
 
+![Image](https://github.com/user-attachments/assets/a5b7f815-8651-40e6-bbca-5bf6d7f7a0b7)
+
 키 : test
 쌍 : a/c
 암호화하려는 문장 및 단어 : hello
